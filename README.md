@@ -1,4 +1,4 @@
-# dry_tortugas
+# Dry Tortugas histopathology
 Quantification of histological disease signs in corals from Dry Tortugas National Park
 
 
