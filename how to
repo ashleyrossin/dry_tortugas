@@ -4,3 +4,8 @@ Methods for the initial quantification (bayesian model) are in an in prep manusc
 
 The secondary methods are available for now from my PhD dissertation, also available from LSU website or by request!
 
+All photographs are made at 40X magnification on a light microscope, and measured in ImageJ
+https://imagej.net/ij/download.html
+
+All analysis is done R Studio
+https://cran.r-project.org/bin/windows/base/
